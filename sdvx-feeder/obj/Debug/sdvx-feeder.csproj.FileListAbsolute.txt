@@ -6,3 +6,4 @@ H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug
 H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx-feeder.exe
 H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx-feeder.pdb
 H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx_feeder.Form1.resources
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx-feeder.csprojResolveAssemblyReference.cache
