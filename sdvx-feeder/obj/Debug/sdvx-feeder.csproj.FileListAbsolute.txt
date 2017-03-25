@@ -1,0 +1,8 @@
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\bin\Debug\sdvx-feeder.exe.config
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\bin\Debug\sdvx-feeder.exe
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\bin\Debug\sdvx-feeder.pdb
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx_feeder.Properties.Resources.resources
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx-feeder.csproj.GenerateResource.Cache
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx-feeder.exe
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx-feeder.pdb
+H:\Media\Documents\Visual Studio 2015\Projects\sdvx-feeder\sdvx-feeder\obj\Debug\sdvx_feeder.Form1.resources
