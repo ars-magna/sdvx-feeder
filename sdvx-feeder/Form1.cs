@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Reflection;
+using vJoyInterfaceWrap;
 
 namespace sdvx_feeder
 {
@@ -17,9 +18,7 @@ namespace sdvx_feeder
         public Form1()
         {
             InitializeComponent();
-            //haha python stuff will load here when i get around to it 
         }
-
         private void Form1_FormClosing(object sender, CancelEventArgs e)
         {
             e.Cancel = true;
@@ -44,6 +43,11 @@ namespace sdvx_feeder
         private void exitToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             Environment.Exit(0);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+        //C# script rewrite testing will be going on in this space!!
         }
     }
 }
