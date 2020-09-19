@@ -6,6 +6,9 @@ I've got the debug binary in here or whatever so feel free to grab it in its cur
 
 Check back for updates because right now it does nothihng haha lole
 
+UPDATE: 
+While maybe I will finish this when I feel like it (so I probably won't mess with it again idk) SpiceTools has all of this built in so use that instead probably hehe
+
 To do (In order of priority):
 
 1. Create integrated vJoy Feeder in C# (Including rewriting original python script in C#)
