@@ -17,3 +17,5 @@ To do (In order of priority):
 4. Make icons instead of using a booth icon!! (That's a filler icon!!)
 5. Add a MIDI mode toggle (For myself but maybe someone will want it one day??)
 6. ???
+
+Project dead due to other tools maturing to this point at about the same time as I started working on it
